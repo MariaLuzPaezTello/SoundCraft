@@ -159,3 +159,14 @@ fun LibraryScreen(
         }
     }
 }
+
+@androidx.compose.ui.tooling.preview.Preview(showBackground = true, showSystemUi = true)
+@Composable
+fun LibraryScreenPreview() {
+    com.example.soundcraftseminario.ui.theme.SoundcraftTheme {
+        LibraryScreen(
+            onNavigateToImport = {}
+        )
+    }
+}
+

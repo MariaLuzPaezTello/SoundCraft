@@ -278,3 +278,15 @@ fun ImportSoundScreen(
         }
     }
 }
+
+@androidx.compose.ui.tooling.preview.Preview(showBackground = true, showSystemUi = true)
+@Composable
+fun ImportSoundScreenPreview() {
+    com.example.soundcraftseminario.ui.theme.SoundcraftTheme {
+        ImportSoundScreen(
+            onBackClick = {},
+            onImportSuccess = {}
+        )
+    }
+}
+

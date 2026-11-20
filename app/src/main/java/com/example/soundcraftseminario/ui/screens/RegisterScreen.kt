@@ -155,3 +155,15 @@ fun RegisterScreen(
         }
     }
 }
+
+@androidx.compose.ui.tooling.preview.Preview(showBackground = true, showSystemUi = true)
+@Composable
+fun RegisterScreenPreview() {
+    com.example.soundcraftseminario.ui.theme.SoundcraftTheme {
+        RegisterScreen(
+            onRegisterSubmit = {},
+            onBackToLoginClick = {}
+        )
+    }
+}
+
