@@ -164,3 +164,24 @@ graph TD
 * `Button` / `ElevatedButton`: Para las acciones principales con estilo personalizado en violeta y rosado.
 * `LinearProgressIndicator` / `Slider`: Para representar la barra de reproducción de audio.
 * `Icon` & `IconButton`: Iconografía estándar de Material Icons (Play, Pause, Add, ArrowBack, Sound, etc.).
+
+
+## 10. Mockups de la aplicación
+
+A continuación, se presentan los diseños de las principales pantallas de SoundCraft, realizados durante la etapa de diseño de la interfaz. Los mockups representan la propuesta visual de la aplicación y establecen los lineamientos que se utilizaron posteriormente para desarrollar el prototipo en Android Studio.
+
+### 10.1. Pantalla de Login
+
+![Mockup Login](mockups/login.png)
+
+### 10.2. Pantalla de Registro
+
+![Mockup Registro](mockups/registro.png)
+
+### 10.3. Pantalla de Librería
+
+![Mockup Librería](mockups/libreria.png)
+
+### 10.4. Pantalla de Importación
+
+![Mockup Importación](mockups/importacion.png)
